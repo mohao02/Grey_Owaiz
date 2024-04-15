@@ -694,3 +694,27 @@ Received Import Request.
 Start importing Assets/CreativeCore_Prototyping/Scenes/2-ProbuilderTerrain.unity using Guid(a5be0fcd02ebab0469ec7c53e6ef7ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5796b0b19806d385df796404509600a7') in 0.001697 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 623.129958 seconds.
+  path: Assets/CreativeCore_Prototyping/Scenes/1-Greybox.unity
+  artifactKey: Guid(e910cee26e07d654298ff7e43cc358ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Prototyping/Scenes/1-Greybox.unity using Guid(e910cee26e07d654298ff7e43cc358ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4211935a44c7c61b0675009ee1be3725') in 0.006281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 34.402398 seconds.
+  path: Assets/Scenes/My Scene.unity
+  artifactKey: Guid(c647c282cbfae4f6c93a4a1ae6bb0dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/My Scene.unity using Guid(c647c282cbfae4f6c93a4a1ae6bb0dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4299500c3a5a8bcfe67489d19167be1') in 0.000898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.728886 seconds.
+  path: Assets/CreativeCore_Prototyping/Scenes/New Scene.unity
+  artifactKey: Guid(47c95492e648dab4bba3ff0770190d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Prototyping/Scenes/New Scene.unity using Guid(47c95492e648dab4bba3ff0770190d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124c09f1de7d1a1a1befc234daaecaed') in 0.001493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
